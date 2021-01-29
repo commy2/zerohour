@@ -13686,6 +13686,10 @@ CONTROLBAR:TooltipSpectreGunship
 "Strong vs. Vehicles \n \n Countdown Timer: 4:00"
 END
 
+AirF_CONTROLBAR:TooltipSpectreGunship
+"Strong vs. Vehicles \n \n Countdown Timer: 3:00"
+END
+
 CONTROLBAR:TooltipFireICBM
 "Strong vs. Buildings, infantry \n \n Countdown Timer: 6:00"
 END
