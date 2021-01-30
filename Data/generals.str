@@ -13739,7 +13739,7 @@ CONTROLBAR:TooltipUSAUpgradeBunkerBusters
 END
 
 CONTROLBAR:TooltipUSAUpgradeCountermeasures
-"All aircraft capable of evading 50% of missiles fired at them"
+"All aircraft capable of evading 30% of missiles fired at them"
 END
 
 CONTROLBAR:TooltipUpgradeChinaHelixGattlingCannon
