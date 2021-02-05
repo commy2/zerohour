@@ -9110,6 +9110,10 @@ CONTROLBAR:TooltipCarpetBomb
 "Carpet Bomb target area \n \n Countdown Timer: 2:30"
 END
 
+CONTROLBAR:AirF_TooltipCarpetBomb
+"Carpet Bomb target area \n \n Countdown Timer: 4:00"
+END
+
 CONTROLBAR:TooltipCrateDrop
 "Drop supply crates"
 END
