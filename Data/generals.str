@@ -4282,6 +4282,10 @@ CONTROLBAR:ConstructChinaNuclearMissileLauncher
 "Nuclear &Missile"
 END
 
+CONTROLBAR:Boss_ConstructChinaNuclearMissileLauncher
+"Nuclear M&issile"
+END
+
 CONTROLBAR:ConstructChinaSpeakerTower
 "Speaker &Tower"
 END
@@ -11576,6 +11580,10 @@ END
 
 CONTROLBAR:ConstructAmericaTankAvenger
 "Aven&ger"
+END
+
+CONTROLBAR:Boss_ConstructAmericaTankAvenger
+"&Avenger"
 END
 
 CONTROLBAR:ConstructAmericaTankMicrowave
