@@ -4322,6 +4322,10 @@ CONTROLBAR:ConstructGLAInfantryRPGTrooper
 "RP&G Trooper"
 END
 
+CONTROLBAR:Chem_ConstructGLAInfantryRPGTrooper
+"Toxin RP&G Trooper"
+END
+
 CONTROLBAR:ConstructGLATunnelNetwork
 "Tunnel &Network"
 END
@@ -6062,6 +6066,10 @@ OBJECT:TunnelDefender
 "RPG Trooper"
 END
 
+OBJECT:Chem_TunnelDefender
+"Toxin RPG Trooper"
+END
+
 OBJECT:TunnelNetwork
 "Tunnel Network"
 END
@@ -7607,6 +7615,10 @@ CONTROLBAR:ToolTipGLABuildTerrorist
 END
 
 CONTROLBAR:ToolTipGLABuildRPGTrooper
+"Strong vs. tanks \n Weak vs. infantry"
+END
+
+CONTROLBAR:Chem_ToolTipGLABuildRPGTrooper
 "Strong vs. tanks \n Weak vs. infantry"
 END
 
