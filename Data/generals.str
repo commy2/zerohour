@@ -13955,7 +13955,7 @@ CONTROLBAR:ToolTipUSABuildHyersonicAurora
 END
 
 CONTROLBAR:ToolTipGLABuildSniper
-"Camouflaged while not moving or shooting. Spots hidden enemies \n \n Strong vs. infantry \n Weak vs. light vehicles, scouts"
+"Camouflaged while not shooting. Spots hidden enemies \n \n Strong vs. infantry \n Weak vs. light vehicles, scouts"
 END
 
 CONTROLBAR:ToolTipUSABuildMicrowave
