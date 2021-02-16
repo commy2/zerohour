@@ -8254,6 +8254,10 @@ CONTROLBAR:DetonateBombTruck
 "Detonate &Now!"
 END
 
+CONTROLBAR:DetonateTerrorist
+"Detonate &Now!"
+END
+
 UPGRADE:RangerCaptureBuilding
 "Capture Building"
 END
@@ -8268,6 +8272,10 @@ END
 
 CONTROLBAR:TooltipDetonateBombTruck
 "Orders the Bomb Truck to immediately detonate at his current location"
+END
+
+CONTROLBAR:TooltipDetonateTerrorist
+"Orders the Terrorist to immediately detonate at his current location"
 END
 
 CONTROLBAR:ToolTipUSAUpgradeRangerCaptureBuilding
