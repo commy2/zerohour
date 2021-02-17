@@ -7586,6 +7586,10 @@ CONTROLBAR:ToolTipChinaBuildMIG
 "Creates a fire-storm in large groups \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
 END
 
+CONTROLBAR:Nuke_ToolTipChinaBuildMIG
+"Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+END
+
 CONTROLBAR:ToolTipChinaBuildBlackLotus
 "Captures enemy buildings, steals cash from enemy supply centers and disables enemy vehicles. Camouflaged unless using an ability \n \n Strong vs. buildings, vehicles \n Weak vs. scout units"
 END
