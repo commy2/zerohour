@@ -7031,87 +7031,87 @@ CONTROLBAR:TooltipCancelUpgrade
 END
 
 CONTROLBAR:TooltipUSAUpgradeAdvancedTraining
-"Units gain veterancy at twice the usual speed"
+"Build-time: 60 seconds \n \n Units gain veterancy at twice the usual speed"
 END
 
 CONTROLBAR:TooltipUSAUpgradeDroneARmor
-"All drones get improved armor"
+"Build-time: 40 seconds \n \n All drones get improved armor"
 END
 
 CONTROLBAR:TooltipUSAUpgradeAdvancedControlRods
-"Reactor provides 100% more power"
+"Build-time: 30 seconds \n \n Reactor provides 100% more power"
 END
 
 CONTROLBAR:TooltipUSAUpgradeFlashBangGrenades
-"Rangers Flash-Bang civilian buildings to clear enemy soldiers"
+"Build-time: 30 seconds \n \n Rangers Flash-Bang civilian buildings to clear enemy soldiers"
 END
 
 CONTROLBAR:TooltipUSAUpgradeCompositeArmor
-"Tanks get +25% armor"
+"Build-time: 60 seconds \n \n Tanks get +25% armor"
 END
 
 CONTROLBAR:TooltipUSAUpgradeCruiseMissile
-"Tomahawks can be given a flight-path"
+"Build-time: ??? seconds \n \n Tomahawks can be given a flight-path"
 END
 
 CONTROLBAR:TooltipUSAUpgradeTOW
-"Arm Humvees with a missile. Can fire at ground or air targets"
+"Build-time: 30 seconds \n \n Arm Humvees with a missile. Can fire at ground or air targets"
 END
 
 CONTROLBAR:USAUpgradeRocketPods
-"Comanches fire rocket barrage"
+"Build-time: 40 seconds \n \n Comanches fire rocket barrage"
 END
 
 CONTROLBAR:TooltipUSAUpgradeLaserMissiles
-"Raptor and Stealth Fighter missiles do +25% more damage"
+"Build-time: 40 seconds \n \n Raptor and Stealth Fighter missiles do +25% more damage"
 END
 
 CONTROLBAR:TooltipChinaUpgradeMines
-"Creates mines around the building"
+"Build-time: 20 seconds \n \n Creates mines around the building"
 END
 
 CONTROLBAR:TooltipUpgradeChinaOverlordGattlingCannon
-"Build a Gattling Cannon on this Overlord"
+"Build-time: 20 seconds \n \n Build a Gattling Cannon on this Overlord"
 END
 
 CONTROLBAR:TooltipUpgradeChinaOverlordPropagandaTower
-"Build a Propaganda Tower on this Overlord"
+"Build-time: 10 seconds \n \n Build a Propaganda Tower on this Overlord"
 END
 
 CONTROLBAR:TooltipUpgradeChinaOverlordBattleBunker
-"Build a Bunker on this Overlord. Bunker can be occupied by your soldiers"
+"Build-time: 15 seconds \n \n Build a Bunker on this Overlord. Bunker can be occupied by your soldiers"
 END
 
 CONTROLBAR:TooltipChinaUpgradeRadar
-"Build a radar for this Command Center"
+"Build-time: 20 seconds \n \n Build a radar for this Command Center"
 END
 
 CONTROLBAR:TooltipChinaUpgradeNationalism
-"+25% to Horde bonus for Red Guard, Tank Hunter and Battlemaster"
+"Build-time: 60 seconds \n \n +25% to Horde bonus for Red Guard, Tank Hunter and Battlemaster"
 END
 
 CONTROLBAR:TooltipChinaUpgradeBlackNapalm
-"+25% damage to all flame weapons"
+"Build-time: 45 seconds \n \n +25% damage to all flame weapons"
 END
 
 CONTROLBAR:TooltipChinaUpgradeChainGuns
-"+25% damage to all gattling weapons"
+"Build-time: 45 seconds \n \n +25% damage to all gattling weapons"
 END
 
 CONTROLBAR:TooltipUpgradeChinaSubliminal
-"+25% to Speaker Tower bonuses"
+"Build-time: 40 seconds \n \n +25% to Speaker Tower bonuses"
 END
 
 CONTROLBAR:TooltipUpgradeChinaUraniumShells
-"+25% shot damage on Battlemaster and Overlord"
+"Build-time: 60 seconds \n \n +25% shot damage on Battlemaster and Overlord"
 END
 
 CONTROLBAR:TooltipUpgradeChinaNuclearTanks
-"Improves Overlord and Battlemaster speed"
+"Build-time: 60 seconds \n \n Improves Overlord and Battlemaster speed"
 END
 
 CONTROLBAR:TooltipUpgradeChinaStunBullets
-"Red Guard may try to capture enemy soldiers"
+"Build-time: ??? seconds \n \n Red Guard may try to capture enemy soldiers"
 END
 
 CONTROLBAR:TooltipDisguiseAsVehicle
@@ -7119,51 +7119,51 @@ CONTROLBAR:TooltipDisguiseAsVehicle
 END
 
 CONTROLBAR:TooltipGLAUpgradeBioBomb
-"Bomb Truck becomes a biowar weapon"
+"Build-time: 5 seconds \n \n Bomb Truck becomes a biowar weapon"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeHEBomb
-"100% more damage for this Bomb Truck"
+"Build-time: 5 seconds \n \n 100% more damage for this Bomb Truck"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeRadarVanScan
-"Radar Van can scan the map to search for enemy forces"
+"Build-time: 20 seconds \n \n Radar Van can scan the map to search for enemy forces"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeScorpionRocket
-"Scorpion gains a rocket attack"
+"Build-time: 30 seconds \n \n Scorpion gains a rocket attack"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeAPRockets
-"+25% damage bonus on all Rocket attacks"
+"Build-time: 60 seconds \n \n +25% damage bonus on all Rocket attacks"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeToxinShells
-"Scorpion and Marauder shells carry a small amount of Anthrax"
+"Build-time: 30 seconds \n \n Scorpion and Marauder shells carry a small amount of Anthrax"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeAnthraxBeta
-"+25% damage bonus to all toxin units"
+"Build-time: 30 seconds \n \n +25% damage bonus to all toxin units"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeAPBullets
-"+25% damage bonus to Rebel, Technical, Quad Cannon and Jarmen Kell"
+"Build-time: 60 seconds \n \n +25% damage bonus to Rebel, Technical, Quad Cannon and Jarmen Kell"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeJunkRepair
-"All vehicles auto-repair"
+"Build-time: 60 seconds \n \n All vehicles auto-repair"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeCamouflage
-"Rebels are hidden from enemy sight when not shooting"
+"Build-time: 60 seconds \n \n Rebels are hidden from enemy sight when not shooting"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeTranqDarts
-"Rebels may try to capture enemy soldiers"
+"Build-time: ??? seconds \n \n Rebels may try to capture enemy soldiers"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeArmTheMob
-"Arm all Angry Mobs with AK-47s"
+"Build-time: 30 seconds \n \n Arm all Angry Mobs with AK-47s"
 END
 
 CONTROLBAR:ToolTipStructureExit
@@ -7339,335 +7339,407 @@ CONTROLBAR:ToolTipCancelConstruction
 END
 
 CONTROLBAR:ToolTipUSABuildCommandCenter
-"Commands special weapons. Creates Construction Dozers. Provides radar"
+"Build-time: 45 seconds \n \n Commands special weapons. Creates Construction Dozers. Provides radar"
 END
 
 CONTROLBAR:ToolTipUSABuildPowerPlant
-"Provides power for USA bases \n \n Power Supplied: 5"
+"Build-time: 10 seconds \n \n Provides power for USA bases \n \n Power Supplied: 5"
 END
 
 CONTROLBAR:ToolTipUSABuildBarracks
-"Trains USA soldiers for use in battle"
+"Build-time: 10 seconds \n \n Trains USA soldiers for use in battle"
 END
 
 CONTROLBAR:ToolTipUSABuildSupplyCenter
-"Drop-off point for USA Chinook supply gatherers \n \n Power Required: 1"
+"Build-time: 10 seconds \n \n Drop-off point for USA Chinook supply gatherers \n \n Power Required: 1"
 END
 
 CONTROLBAR:ToolTipUSABuildWall
-"USA fence system. Laser-sensors alert to enemy troops moving through fence. Fence blocks enemy vehicle movement"
+"Build-time: ??? seconds \n \n USA fence system. Laser-sensors alert to enemy troops moving through fence. Fence blocks enemy vehicle movement"
 END
 
 CONTROLBAR:ToolTipUSABuildWarFactory
-"Builds all USA ground vehicles \n \n Power Required: 1"
+"Build-time: 15 seconds \n \n Builds all USA ground vehicles \n \n Power Required: 1"
 END
 
 CONTROLBAR:ToolTipUSABuildPatriotBattery
-"Ground and air defense. Can relay position of enemy to nearby Patriots \n \n Power Required: 3"
+"Build-time: 25 seconds \n \n Ground and air defense. Can relay position of enemy to nearby Patriots \n \n Power Required: 3"
 END
 
 CONTROLBAR:ToolTipUSABuildAirField
-"Builds USA aircraft \n \n Power Required: 1"
+"Build-time: 30 seconds \n \n Builds USA aircraft \n \n Power Required: 1"
 END
 
 CONTROLBAR:ToolTipUSABuildParticleCannon
-"Fires a particle beam anywhere on the map \n \n Power Required: 10"
+"Build-time: 60 seconds \n \n Fires a particle beam anywhere on the map \n \n Power Required: 10"
 END
 
 CONTROLBAR:ToolTipUSABuildStrategyCenter
-"All USA forces can use a single battle plan \n \n Bombardment \n Search and Destroy \n Hold the Line \n \n Power Required: 2"
+"Build-time: 60 seconds \n \n All USA forces can use a single battle plan \n \n Bombardment \n Search and Destroy \n Hold the Line \n \n Power Required: 2"
 END
 
 CONTROLBAR:ToolTipUSABuildDetentionCamp
-"Grants ability to spy on enemies"
+"Build-time: 30 seconds \n \n Grants ability to spy on enemies"
 END
 
 CONTROLBAR:ToolTipUSABuildSupplyDropZone
-"Calls in a paradrop of supplies every 2 minutes \n \n Power Required: 4"
+"Build-time: 45 seconds \n \n Calls in a paradrop of supplies every 2 minutes \n \n Power Required: 4"
 END
 
 CONTROLBAR:ToolTipGLABuildCommandCenter
-"Commands special weapons. Trains Workers"
+"Build-time: 90 seconds \n \n Commands special weapons. Trains Workers"
 END
 
 CONTROLBAR:ToolTipGLABUildDemoTrap
-"Stealthy explosive device"
+"Build-time: 10 seconds \n \n Stealthy explosive device"
+END
+
+CONTROLBAR:Demo_ToolTipGLABUildDemoTrap
+"Build-time: 6 seconds \n \n Stealthy explosive device"
+END
+
+CONTROLBAR:Chem_ToolTipGLABUildDemoTrap
+"Build-time: 16 seconds \n \n Stealthy explosive device"
 END
 
 CONTROLBAR:ToolTipGLABuildBarracks
-"Trains GLA soldiers"
+"Build-time: 20 seconds \n \n Trains GLA soldiers"
 END
 
 CONTROLBAR:ToolTipGLABuildSupplyStash
-"Collects supplies"
+"Build-time: 20 seconds \n \n Collects supplies"
 END
 
 CONTROLBAR:ToolTipGLABuildArmsDealer
-"Builds vehicles"
+"Build-time: 30 seconds \n \n Builds vehicles"
 END
 
 CONTROLBAR:ToolTipChinaBuildCommandCenter
-"Commands special weapons. Creates Construction Dozers"
+"Build-time: 45 seconds \n \n Commands special weapons. Creates Construction Dozers"
 END
 
 CONTROLBAR:ToolTipChinaBuildPowerPlant
-"Chinese power plant. Can be overloaded to provide +50% power \n \n Power Supplied: 10"
+"Build-time: 10 seconds \n \n Chinese power plant. Can be overloaded to provide +50% power \n \n Power Supplied: 10"
 END
 
 CONTROLBAR:ToolTipChinaBuildBarracks
-"Trains Chinese soldiers"
+"Build-time: 10 seconds \n \n Trains Chinese soldiers"
 END
 
 CONTROLBAR:ToolTipChinaBuildSupplyCenter
-"Drop-off point for China supply gatherers \n \n Power Required: 1"
+"Build-time: 10 seconds \n \n Drop-off point for China supply gatherers \n \n Power Required: 1"
 END
 
 CONTROLBAR:ToolTipChinaBuildWarFactory
-"Builds Chinese vehicles \n \n Power Required: 1"
+"Build-time: 15 seconds \n \n Builds Chinese vehicles \n \n Power Required: 1"
 END
 
 CONTROLBAR:ToolTipChinaBuildBunker
-"Can hold 5 Chinese soldiers"
+"Build-time: 5 seconds \n \n Can hold 5 Chinese soldiers"
 END
 
 CONTROLBAR:ToolTipChinaBuildPropagandaCenter
-"Builds important Chinese technologies \n \n Power Required: 2"
+"Build-time: 45 seconds \n \n Builds important Chinese technologies \n \n Power Required: 2"
 END
 
 CONTROLBAR:ToolTipChinaBuildAirField
-"Builds Chinese aircraft \n \n Power Required: 1"
+"Build-time: 30 seconds \n \n Builds Chinese aircraft \n \n Power Required: 1"
 END
 
 CONTROLBAR:ToolTipChinaBuildGattlingCannon
-"Powerful anti-air base defense \n \n Power Required: 3"
+"Build-time: 25 seconds \n \n Powerful anti-air base defense \n \n Power Required: 3"
 END
 
 CONTROLBAR:ToolTipChinaBuildNuclearMissileLauncher
-"Launches a nuclear missile. Builds important Chinese upgrades \n \n Power Required: 10"
+"Build-time: 60 seconds \n \n Launches a nuclear missile. Builds important Chinese upgrades \n \n Power Required: 10"
 END
 
 CONTROLBAR:ToolTipChinaBuildSpeakerTower
-"Heals your forces and increases firing speed \n \n Power Required: 1"
+"Build-time: 10 seconds \n \n Heals your forces and increases firing speed \n \n Power Required: 1"
 END
 
 CONTROLBAR:ToolTipGLABuildTunnelNetwork
-"Base defense and underground tunnel. Units can enter the Tunnel Network and exit at any other Tunnel Network"
+"Build-time: 30 seconds \n \n Base defense and underground tunnel. Units can enter the Tunnel Network and exit at any other Tunnel Network"
+END
+
+CONTROLBAR:Boss_ToolTipGLABuildTunnelNetwork
+"Build-time: 15 seconds \n \n Base defense and underground tunnel. Units can enter the Tunnel Network and exit at any other Tunnel Network"
 END
 
 CONTROLBAR:ToolTipGLABuildPalace
-"Holds important GLA technologies. Can be garrisoned by GLA troops"
+"Build-time: 90 seconds \n \n Holds important GLA technologies. Can be garrisoned by GLA troops"
 END
 
 CONTROLBAR:ToolTipGLABuildBlackMarket
-"Holds important GLA technologies. Provides free supplies to the GLA player"
+"Build-time: 60 seconds \n \n Holds important GLA technologies. Provides free supplies to the GLA player"
 END
 
 CONTROLBAR:ToolTipGLABuildStingerSite
-"Anti-air and anti-tank base defense"
+"Build-time: 30 seconds \n \n Anti-air and anti-tank base defense"
 END
 
 CONTROLBAR:ToolTipGLABuildScudStorm
-"Launches a volley of SCUD missiles \n \n Countdown Timer: 5:00"
+"Build-time: 120 seconds \n \n Launches a volley of SCUD missiles \n \n Countdown Timer: 5:00"
+END
+
+CONTROLBAR:Boss_ToolTipGLABuildScudStorm
+"Build-time: 60 seconds \n \n Launches a volley of SCUD missiles \n \n Countdown Timer: 5:00"
 END
 
 CONTROLBAR:ToolTipGLABuildPrison
-"Used to hold captured enemy soldiers"
+"Build-time: ??? seconds \n \n Used to hold captured enemy soldiers"
 END
 
 CONTROLBAR:ToolTipUSABuildRanger
-"Strong vs. infantry \n Weak vs. light vehicles"
+"Build-time: 5 seconds \n \n Strong vs. infantry \n Weak vs. light vehicles"
 END
 
 CONTROLBAR:ToolTipUSABuildDozer
-"Builds all USA structures and repairs buildings"
+"Build-time: 6.5 seconds \n \n Builds all USA structures and repairs buildings"
 END
 
 CONTROLBAR:ToolTipGLABuildWorker
-"Builds all GLA structures. Repairs buildings and collects supplies"
+"Build-time: 6 seconds \n \n Builds all GLA structures. Repairs buildings and collects supplies"
 END
 
 CONTROLBAR:ToolTipChinaBuildDozer
-"Builds all Chinese structures and repairs buildings"
+"Build-time: 8 seconds \n \n Builds all Chinese structures and repairs buildings"
 END
 
 CONTROLBAR:ToolTipGLABuildScorpion
-"Strong vs. light vehicles \n Weak vs. rocket soldiers, aircraft"
+"Build-time: 16 seconds \n \n Strong vs. light vehicles \n Weak vs. rocket soldiers, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildRocketBuggy
-"Strong vs. buildings \n Weak vs. tanks, aircraft"
+"Build-time: 22 seconds \n \n Strong vs. buildings \n Weak vs. tanks, aircraft"
+END
+
+CONTROLBAR:Boss_ToolTipGLABuildRocketBuggy
+"Build-time: 14 seconds \n \n Strong vs. buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildRadarVan
-"Provides Radar. Can spot hidden enemy units"
+"Build-time: 22 seconds \n \n Provides Radar. Can spot hidden enemy units"
 END
 
 CONTROLBAR:ToolTipChinaBuildOverlord
-"Strong vs. vehicles, buildings \n Weak vs. rocket-armed infantry, aircraft"
+"Build-time: 24 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. rocket-armed infantry, aircraft"
+END
+
+CONTROLBAR:Nuke_ToolTipChinaBuildOverlord
+"Build-time: 26 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. rocket-armed infantry, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildGattlingTank
-"Strong vs. infantry, aircraft \n Weak vs. tanks"
+"Build-time: 14 seconds \n \n Strong vs. infantry, aircraft \n Weak vs. tanks"
 END
 
 CONTROLBAR:ToolTipGLABuildRebel
-"Strong vs. infantry \n Weak vs. tanks, light vehicles"
+"Build-time: 10 seconds \n \n Strong vs. infantry \n Weak vs. tanks, light vehicles"
 END
 
 CONTROLBAR:ToolTipChinaBuildRedguard
-"Gains Horde bonus when in groups of 5 or more \n \nStrong vs. infantry \n Weak vs. vehicles"
+"Build-time: 10 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \nStrong vs. infantry \n Weak vs. vehicles"
+END
+
+CONTROLBAR:Tank_ToolTipChinaBuildRedguard
+"Build-time: 12 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \nStrong vs. infantry \n Weak vs. vehicles"
+END
+
+CONTROLBAR:Nuke_ToolTipChinaBuildRedguard
+"Build-time: 12 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \nStrong vs. infantry \n Weak vs. vehicles"
 END
 
 CONTROLBAR:ToolTipChinaBuildHacker
-"Can disable enemy buildings with a computer virus or can hack into the internet to steal money \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
+"Build-time: 20 seconds \n \n Can disable enemy buildings with a computer virus or can hack into the internet to steal money \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
 END
 
 CONTROLBAR:ToolTipUSABUildChinook
-"Transport helicopter. Collects supplies. Works with Rangers to perform Combat Drop attack"
+"Build-time: 10 seconds \n \n Transport helicopter. Collects supplies. Works with Rangers to perform Combat Drop attack"
 END
 
 CONTROLBAR:ToolTipChinaBuildSupplyTruck
-"Gathers supplies"
+"Build-time: 10 seconds \n \n Gathers supplies"
 END
 
 CONTROLBAR:ToolTipUSABuildPaladin
-"Uses a laser to destroy missiles and enemy infantry \n \n Strong vs. tanks, buildings, and rockets \n Weak vs. aircraft"
+"Build-time: 15.25 seconds \n \n Uses a laser to destroy missiles and enemy infantry \n \n Strong vs. tanks, buildings, and rockets \n Weak vs. aircraft"
+END
+
+CONTROLBAR:Boss_ToolTipUSABuildPaladin
+"Build-time: 16 seconds \n \n Uses a laser to destroy missiles and enemy infantry \n \n Strong vs. tanks, buildings, and rockets \n Weak vs. aircraft"
 END
 
 CONTROLBAR:ToolTipUSABuildRaptor
-"Can engage ground or air targets \n \n Strong vs. aircraft, tanks, light vehicles \n Weak vs. missile-armed infantry, anti-air defenses"
+"Build-time: 22 seconds \n \n Can engage ground or air targets \n \n Strong vs. aircraft, tanks, light vehicles \n Weak vs. missile-armed infantry, anti-air defenses"
 END
 
 CONTROLBAR:ToolTipUSABuildAurora
-"Super-sonic attack makes Aurora immune to enemy fire. After super-sonic attack, Aurora speed is reduced to 50% \n \n Strong vs. buildings \n Weak vs. fighters, anti-air units"
+"Build-time: 32 seconds \n \n Super-sonic attack makes Aurora immune to enemy fire. After super-sonic attack, Aurora speed is reduced to 50% \n \n Strong vs. buildings \n Weak vs. fighters, anti-air units"
 END
 
 CONTROLBAR:ToolTipUSABuildStealthFighter
-"Stealthed while moving \n \n Strong vs. enemy base defenses \n Weak vs. enemy fighters"
+"Build-time: 27 seconds \n \n Stealthed while moving \n \n Strong vs. enemy base defenses \n Weak vs. enemy fighters"
 END
 
 CONTROLBAR:ToolTipUSABuildComanche
-"Fires missiles and cannon. Re-arms in the air \n \n Strong vs. tanks, light vehicles, infantry \n Weak vs. missile-armed infantry, anti-air defenses"
+"Build-time: 20 seconds \n \n Fires missiles and cannon. Re-arms in the air \n \n Strong vs. tanks, light vehicles, infantry \n Weak vs. missile-armed infantry, anti-air defenses"
 END
 
 CONTROLBAR:ToolTipUSABuildMissileDefender
-"Use special laser-guided attack to rapid-fire missiles \n \n Strong vs. tanks, aircraft \n Weak vs. infantry"
+"Build-time: 5 seconds \n \n Use special laser-guided attack to rapid-fire missiles \n \n Strong vs. tanks, aircraft \n Weak vs. infantry"
 END
 
 CONTROLBAR:ToolTipUSABuildPathFinder
-"Camouflaged while not moving or shooting. Spots hidden enemies \n \n Strong vs. infantry \n Weak vs. light vehicles, scouts"
+"Build-time: 10 seconds \n \n Camouflaged while not moving or shooting. Spots hidden enemies \n \n Strong vs. infantry \n Weak vs. light vehicles, scouts"
 END
 
 CONTROLBAR:ToolTipUSABuildColonelBurton
-"Camouflaged. Reveals himself when he shoots or plants a bomb \n \n Build Limit: 1 \n Strong vs. Infantry \n Weak vs. Scouts"
+"Build-time: 20 seconds \n \n Camouflaged. Reveals himself when he shoots or plants a bomb \n \n Build Limit: 1 \n Strong vs. Infantry \n Weak vs. Scouts"
 END
 
 CONTROLBAR:ToolTipUSABuildTomahawk
-"Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
+"Build-time: 23.25 seconds \n \n Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
+END
+
+CONTROLBAR:Boss_ToolTipUSABuildTomahawk
+"Build-time: 24 seconds \n \n Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
 END
 
 CONTROLBAR:ToolTipUSABuildHumvee
-"Transport. Infantry inside can use fire-ports to engage the enemy \n \n Strong vs. infantry \n Weak vs. tanks"
+"Build-time: 13.25 seconds \n \n Transport. Infantry inside can use fire-ports to engage the enemy \n \n Strong vs. infantry \n Weak vs. tanks"
 END
 
 CONTROLBAR:ToolTipUSABuildMedic
-"Heals vehicles and soldiers. Cleans up radiation and toxins"
+"Build-time: 13.25 seconds \n \n Heals vehicles and soldiers. Cleans up radiation and toxins"
 END
 
 CONTROLBAR:ToolTipUSABuildScoutDrone
-"Extends sight range and reveals hidden enemies"
+"Build-time: 5 seconds \n \n Extends sight range and reveals hidden enemies"
 END
 
 CONTROLBAR:ToolTipUSABuildBattleDrone
-"Fires a small machine gun and repairs its parent vehicle \n \n Strong vs. infantry \n Weak vs. missile armed infantry"
+"Build-time: 5 seconds \n \n Fires a small machine gun and repairs its parent vehicle \n \n Strong vs. infantry \n Weak vs. missile armed infantry"
 END
 
 CONTROLBAR:ToolTipChinaBuildMIG
-"Creates a fire-storm in large groups \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+"Build-time: 12 seconds \n \n Creates a fire-storm in large groups \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+END
+
+CONTROLBAR:Tank_ToolTipChinaBuildMIG
+"Build-time: 14 seconds \n \n Creates a fire-storm in large groups \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildMIG
-"Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+"Build-time: 12 seconds \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
 END
 
 CONTROLBAR:ToolTipChinaBuildBlackLotus
-"Captures enemy buildings, steals cash from enemy supply centers and disables enemy vehicles. Camouflaged unless using an ability \n \n Strong vs. buildings, vehicles \n Weak vs. scout units"
+"Build-time: 20 seconds \n \n Captures enemy buildings, steals cash from enemy supply centers and disables enemy vehicles. Camouflaged unless using an ability \n \n Strong vs. buildings, vehicles \n Weak vs. scout units"
 END
 
 CONTROLBAR:ToolTipChinaBuildTankHunter
-"Special TNT attack \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks \n Weak vs. infantry"
+"Build-time: 5 seconds \n \n Special TNT attack \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks \n Weak vs. infantry"
+END
+
+CONTROLBAR:Tank_ToolTipChinaBuildTankHunter
+"Build-time: 7 seconds \n \n Special TNT attack \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks \n Weak vs. infantry"
+END
+
+CONTROLBAR:Nuke_ToolTipChinaBuildTankHunter
+"Build-time: 7 seconds \n \n Special TNT attack \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks \n Weak vs. infantry"
 END
 
 CONTROLBAR:ToolTipChinaBuildInfernoCannon
-"Creates a fire-storm in large groups \n \n Strong vs. base defenses, infantry \n Weak vs. tanks, aircraft"
+"Build-time: 19 seconds \n \n Creates a fire-storm in large groups \n \n Strong vs. base defenses, infantry \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildNukeLauncher
-"Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
+"Build-time: 24 seconds \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildTroopCrawler
-"Transport. Comes with 8 Red Guard. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
+"Build-time: 19 seconds \n \n Transport. Comes with 8 Red Guard. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildDragonTank
-"Can burn soldiers out of buildings. Can create a wall of flame \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
+"Build-time: 14 seconds \n \n Can burn soldiers out of buildings. Can create a wall of flame \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildTerrorist
-"Suicide soldier \n \n Strong vs. tanks, buildings \n Weak vs. infantry, light vehicles"
+"Build-time: 10 seconds \n \n Suicide soldier \n \n Strong vs. tanks, buildings \n Weak vs. infantry, light vehicles"
 END
 
 CONTROLBAR:ToolTipGLABuildRPGTrooper
-"Strong vs. tanks \n Weak vs. infantry"
+"Build-time: 10 seconds \n \n Strong vs. tanks \n Weak vs. infantry"
 END
 
 CONTROLBAR:Chem_ToolTipGLABuildRPGTrooper
-"Strong vs. tanks \n Weak vs. infantry"
+"Build-time: 10 seconds \n \n Strong vs. tanks \n Weak vs. infantry"
 END
 
 CONTROLBAR:ToolTipGLABuildAngryMob
-"Strong vs. infantry, vehicles \n Weak vs. flame, toxins, flash-bang grenades"
+"Build-time: 30 seconds \n \n Strong vs. infantry, vehicles \n Weak vs. flame, toxins, flash-bang grenades"
+END
+
+CONTROLBAR:Boss_ToolTipGLABuildAngryMob
+"Build-time: 15 seconds \n \n Strong vs. infantry, vehicles \n Weak vs. flame, toxins, flash-bang grenades"
 END
 
 CONTROLBAR:ToolTipGLABuildHijacker
-"Can capture any enemy vehicle. Camouflaged \n \n Strong vs. tanks, vehicles \n Weak vs. infantry, scouts"
+"Build-time: 20 seconds \n \n Can capture any enemy vehicle. Camouflaged \n \n Strong vs. tanks, vehicles \n Weak vs. infantry, scouts"
+END
+
+CONTROLBAR:Slth_ToolTipGLABuildHijacker
+"Build-time: 30 seconds \n \n Can capture any enemy vehicle. Camouflaged \n \n Strong vs. tanks, vehicles \n Weak vs. infantry, scouts"
 END
 
 CONTROLBAR:ToolTipGLABuildJarmenKell
-"Is camouflaged. Can hide inside civilian buildings to snipe at enemy soldiers. Can kill the crew of enemy vehicles making them vulnerable to capture \n \n Strong vs. infantry, vehicles \n Weak vs. Scouts"
+"Build-time: 40 seconds \n \n Is camouflaged. Can hide inside civilian buildings to snipe at enemy soldiers. Can kill the crew of enemy vehicles making them vulnerable to capture \n \n Strong vs. infantry, vehicles \n Weak vs. Scouts"
+END
+
+CONTROLBAR:Boss_ToolTipGLABuildJarmenKell
+"Build-time: 20 seconds \n \n Is camouflaged. Can hide inside civilian buildings to snipe at enemy soldiers. Can kill the crew of enemy vehicles making them vulnerable to capture \n \n Strong vs. infantry, vehicles \n Weak vs. Scouts"
 END
 
 CONTROLBAR:ToolTipGLABuildToxinTruck
-"Clears buildings of enemy soldiers. Contaminates terrain \n Can upgrade weapon with scavenged parts from enemy kills \n Strong vs. infantry \n Weak vs. tanks, aircraft, base defenses"
+"Build-time: 12 seconds \n \n Clears buildings of enemy soldiers. Contaminates terrain \n Can upgrade weapon with scavenged parts from enemy kills \n Strong vs. infantry \n Weak vs. tanks, aircraft, base defenses"
 END
 
 CONTROLBAR:ToolTipChinaBuildBattlemaster
-"Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
+"Build-time: 14 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
+END
+
+CONTROLBAR:Tank_ToolTipChinaBuildBattlemaster
+"Build-time: 16 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
+END
+
+CONTROLBAR:Nuke_ToolTipChinaBuildBattlemaster
+"Build-time: 16 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildMarauder
-"Can upgrade weapon with scavenged parts from enemy kills \n \n Strong vs. buildings, light vehicles \n Weak vs. rocket soldiers, aircraft"
+"Build-time: 22 seconds \n \n Can upgrade weapon with scavenged parts from enemy kills \n \n Strong vs. buildings, light vehicles \n Weak vs. rocket soldiers, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildTechnical
-"Can upgrade weapon with scavenged parts from enemy kills \n \n Strong vs. infantry \n Weak vs. tanks, aircraft"
+"Build-time: 12 seconds \n \n Can upgrade weapon with scavenged parts from enemy kills \n \n Strong vs. infantry \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildQuadCannon
-"Can upgrade weapon with scavenged parts from enemy kills \n \n Strong vs. infantry, aircraft \n Weak vs. tanks"
+"Build-time: 14 seconds \n \n Can upgrade weapon with scavenged parts from enemy kills \n \n Strong vs. infantry, aircraft \n Weak vs. tanks"
 END
 
 CONTROLBAR:ToolTipGLABuildBombTruck
-"Can disguise to look like any vehicle, friend or foe \n \n Strong vs. infantry, buildings \n Weak vs. Scouts"
+"Build-time: 32 seconds \n \n Can disguise to look like any vehicle, friend or foe \n \n Strong vs. infantry, buildings \n Weak vs. Scouts"
 END
 
 CONTROLBAR:ToolTipGLABuildSCUDLauncher
-"Can be equipped with either an explosive or biological warhead \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
+"Build-time: 42 seconds \n \n Can be equipped with either an explosive or biological warhead \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipUSABuildCrusader
-"Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
+"Build-time: 13.25 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
 END
 
 CONTROLBAR:ToolTipUSASciencePaladin
@@ -7751,15 +7823,15 @@ CONTROLBAR:ToolTipGLAScienceAnthraxBomb
 END
 
 CONTROLBAR:ToolTipUSABuildSecurityFence
-"Build security fence that prevents vehicles from passing and alerts of any enemy infantry that pass through"
+"Build-time: ??? seconds \n \n Build security fence that prevents vehicles from passing and alerts of any enemy infantry that pass through"
 END
 
 CONTROLBAR:ToolTipChinaBuildConcreteWall
-"Build concrete wall that prevents any ground unit from passing through"
+"Build-time: ??? seconds \n \n Build concrete wall that prevents any ground unit from passing through"
 END
 
 CONTROLBAR:ToolTipGLABuildBurningBarricade
-"Build burning barricade the burns units that try to pass over it"
+"Build-time: ??? seconds \n \n Build burning barricade the burns units that try to pass over it"
 END
 
 GUI:QuitToDesktop
@@ -7899,7 +7971,7 @@ MAP:USA03Open
 END
 
 CONTROLBAR:TooltipChinaUpgradeAircraftArmor
-"+25% MiG health"
+"Build-time: 40 seconds \n \n +25% MiG health"
 END
 
 CONTROLBAR:ToolTipSwitchToRangerMachineGun
@@ -8299,15 +8371,15 @@ CONTROLBAR:TooltipDetonateTerrorist
 END
 
 CONTROLBAR:ToolTipUSAUpgradeRangerCaptureBuilding
-"Enables Rangers to capture enemy and tech buildings"
+"Build-time: 30 seconds \n \n Enables Rangers to capture enemy and tech buildings"
 END
 
 CONTROLBAR:ToolTipChinaUpgradeRedGuardCaptureBuilding
-"Enables Red Guards to capture enemy and tech buildings"
+"Build-time: 30 seconds \n \n Enables Red Guards to capture enemy and tech buildings"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeRebelCaptureBuilding
-"Enables Rebels to capture enemy and tech buildings"
+"Build-time: 30 seconds \n \n Enables Rebels to capture enemy and tech buildings"
 END
 
 GUI:Loading
@@ -11791,11 +11863,11 @@ CONTROLBAR:UpgradeChinaFusionReactors
 END
 
 CONTROLBAR:ChinaUpgradeHelixNapalmBomb
-"Enables this Helix to drop napalm bombs"
+"Build-time: 20 seconds \n \n Enables this Helix to drop napalm bombs"
 END
 
 CONTROLBAR:ChinaUpgradeHelixNukeBomb
-"Enables this Helix to drop nuke bombs"
+"Build-time: 20 seconds \n \n Enables this Helix to drop nuke bombs"
 END
 
 CONTROLBAR:UpgradeHelixNapalmBomb
@@ -12075,7 +12147,7 @@ UPGRADE:UpgradeChinaIsotopeStability
 END
 
 CONTROLBAR:TooltipUpgradeChinaIsotopeStability
-"Prevents most collateral radiation from harming friendly units when vehicles are destroyed"
+"Build-time: 60 seconds \n \n Prevents most collateral radiation from harming friendly units when vehicles are destroyed"
 END
 
 OBJECT:SecretResearchLab
@@ -13747,79 +13819,103 @@ CONTROLBAR:TooltipCommunicationsDownload
 END
 
 CONTROLBAR:TooltipUSAUpgradeSentryDroneGun
-"Sentry Drones gain a machine gun"
+"Build-time: 30 seconds \n \n Sentry Drones gain a machine gun"
 END
 
 CONTROLBAR:TooltipGLAUpgradeQuadCannonSnipe
-"Quad Cannons gain the ability to kill infantry in a single shot"
+"Build-time: 5 seconds \n \n Quad Cannons gain the ability to kill infantry in a single shot"
 END
 
 CONTROLBAR:TooltipUSAUpgradeSupplyLines
-"Resources gathering mechanisms bring in an additional 10%"
+"Build-time: 30 seconds \n \n Resources gathering mechanisms bring in an additional 10%"
 END
 
 CONTROLBAR:TooltipUSAUpgradeMOAB
-"Fuel Air Bomb is upgraded to the Mother Of All Bombs"
+"Build-time: 60 seconds \n \n Fuel Air Bomb is upgraded to the Mother Of All Bombs"
 END
 
 CONTROLBAR:TooltipBecomeRealBuilding
-"Upgrade this fake building to a fully functional version"
+"Build-time: ??? seconds \n \n Upgrade this fake building to a fully functional version"
+END
+
+CONTROLBAR:TooltipBecomeRealCommandCenter
+"Build-time: 30 seconds \n \n Upgrade this fake building to a fully functional version"
+END
+
+CONTROLBAR:TooltipBecomeRealBarracks
+"Build-time: 10 seconds \n \n Upgrade this fake building to a fully functional version"
+END
+
+CONTROLBAR:TooltipBecomeRealSupplyStash
+"Build-time: 10 seconds \n \n Upgrade this fake building to a fully functional version"
+END
+
+CONTROLBAR:TooltipBecomeRealArmsDealer
+"Build-time: 10 seconds \n \n Upgrade this fake building to a fully functional version"
+END
+
+CONTROLBAR:TooltipBecomeRealBlackMarket
+"Build-time: 20 seconds \n \n Upgrade this fake building to a fully functional version"
 END
 
 CONTROLBAR:TooltipUSAUpgradeChemicalSuits
-"Infantry will become more resistant to toxin and radiation damage"
+"Build-time: 60 seconds \n \n Infantry will become more resistant to toxin and radiation damage"
 END
 
 CONTROLBAR:TooltipUSAUpgradeBunkerBusters
-"Stealth Fighter missiles damage garrisoned troops"
+"Build-time: 40 seconds \n \n Stealth Fighter missiles damage garrisoned troops"
 END
 
 CONTROLBAR:TooltipUSAUpgradeCountermeasures
-"All aircraft capable of evading 30% of missiles fired at them"
+"Build-time: 40 seconds \n \n All aircraft capable of evading 30% of missiles fired at them"
 END
 
 CONTROLBAR:TooltipUpgradeChinaHelixGattlingCannon
-"Build a Gattling Cannon on this Helix"
+"Build-time: 20 seconds \n \n Build a Gattling Cannon on this Helix"
 END
 
 CONTROLBAR:TooltipUpgradeChinaHelixPropagandaTower
-"Build a Propaganda Tower on this Helix"
+"Build-time: 10 seconds \n \n Build a Propaganda Tower on this Helix"
 END
 
 CONTROLBAR:TooltipUpgradeChinaHelixBattleBunker
-"Build a Bunker on this Helix. Bunkers can be occupied by troops. Troops can fire out of bunkers"
+"Build-time: 15 seconds \n \n Build a Bunker on this Helix. Bunkers can be occupied by troops. Troops can fire out of bunkers"
+END
+
+CONTROLBAR:Infa_TooltipUpgradeChinaHelixBattleBunker
+"Build-time: 20 seconds \n \n Build a Bunker on this Helix. Bunkers can be occupied by troops. Troops can fire out of bunkers"
 END
 
 CONTROLBAR:TooltipChinaUpgradeSatelliteHackOne
-"Enable the Satellite Hack ability to reveal the command centers of opponents"
+"Build-time: 20 seconds \n \n Enable the Satellite Hack ability to reveal the command centers of opponents"
 END
 
 CONTROLBAR:TooltipChinaUpgradeSatelliteHackTwo
-"Enable the Satellite Hack ability to intermittently reveal territory of all opponents"
+"Build-time: 20 seconds \n \n Enable the Satellite Hack ability to intermittently reveal territory of all opponents"
 END
 
 CONTROLBAR:TooltipChinaUpgradeFanaticism
-"Additional +25% to Horde bonus"
+"Build-time: 60 seconds \n \n Additional +25% to Horde bonus"
 END
 
 CONTROLBAR:TooltipUpgradeChinaWGUraniumShells
-"+25% shot damage on Battlemaster and Overlord"
+"Build-time: 60 seconds \n \n +25% shot damage on Battlemaster and Overlord"
 END
 
 CONTROLBAR:TooltipUpgradeChinaTankAutoLoader
-"Battlemaster receives an increased rate of fire"
+"Build-time: 60 seconds \n \n Battlemaster receives an increased rate of fire"
 END
 
 CONTROLBAR:TooltipUpgradeChinaNeutronShells
-"Upgrades Nuke Cannon to fire Neutron Shells \n Neutron Shells will kill infantry in vehicles"
+"Build-time: 60 seconds \n \n Upgrades Nuke Cannon to fire Neutron Shells \n Neutron Shells will kill infantry in vehicles"
 END
 
 CONTROLBAR:ToolTipUpgradeChinaEMPMines
-"Mines release an Neutron blast when triggered"
+"Build-time: 25 seconds \n \n Mines release an Neutron blast when triggered"
 END
 
 CONTROLBAR:TooltipUpgradeChinaFusionReactors
-"Improves Emperor and Battlemaster speed"
+"Build-time: 60 seconds \n \n Improves Emperor and Battlemaster speed"
 END
 
 CONTROLBAR:TooltipDetonateFakebuilding
@@ -13835,27 +13931,27 @@ CONTROLBAR:ToolTipUpgradeGLAWorkerRealCommandSet
 END
 
 CONTROLBAR:Demo_ToolTipGLAUpgradeHEBomb
-"100% more damage for all Demo Traps"
+"Build-time: 5 seconds \n \n 100% more damage for all Demo Traps"
 END
 
 CONTROLBAR:ToolTipGLACamoNetting
-"This structure gains camouflage"
+"Build-time: 5 seconds \n \n This structure gains camouflage"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeFortifiedStructure
-"Buildings gain additional armor protection from attacks"
+"Build-time: 30 seconds \n \n Buildings gain additional armor protection from attacks"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeBoobyTrap
-"Rebels can place booby traps on buildings and neutral units"
+"Build-time: 30 seconds \n \n Rebels can place booby traps on buildings and neutral units"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeWorkerShoes
-"Gives Workers the new shoes they've been asking for, increasing their movement"
+"Build-time: 10 seconds \n \n Gives Workers the new shoes they've been asking for, increasing their movement"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeAnthraxGamma
-"+50% damage bonus to all toxin units"
+"Build-time: 60 seconds \n \n +50% damage bonus to all toxin units"
 END
 
 CONTROLBAR:ToolTipSaboteur
@@ -13903,95 +13999,131 @@ CONTROLBAR:ToolTipChinaFireRebelBoobyTrapAttack
 END
 
 CONTROLBAR:ToolTipUSABuildFireBase
-"Ground defense. Garrisonable by four infantry"
+"Build-time: 25 seconds \n \n Ground defense. Garrisonable by four infantry"
 END
 
 CONTROLBAR:ToolTipUSABuildArtilleryPlatform
-"Builds a large range artillery platform for defenses \n \n Power Required: 4"
+"Build-time: ??? seconds \n \n Builds a large range artillery platform for defenses \n \n Power Required: 4"
 END
 
 CONTROLBAR:ToolTipFakeGLABuilding
 "Fake buildings can be detonated or upgraded to real buildings"
 END
 
+CONTROLBAR:ToolTipFakeGLACommandCenter
+"Build-time: 60 seconds \n \n Fake buildings can be detonated or upgraded to real buildings"
+END
+
+CONTROLBAR:ToolTipFakeGLABarracks
+"Build-time: 10 seconds \n \n Fake buildings can be detonated or upgraded to real buildings"
+END
+
+CONTROLBAR:ToolTipFakeGLASupplyStash
+"Build-time: 10 seconds \n \n Fake buildings can be detonated or upgraded to real buildings"
+END
+
+CONTROLBAR:ToolTipFakeGLAArmsDealer
+"Build-time: 20 seconds \n \n Fake buildings can be detonated or upgraded to real buildings"
+END
+
+CONTROLBAR:ToolTipFakeGLABlackMarket
+"Build-time: 40 seconds \n \n Fake buildings can be detonated or upgraded to real buildings"
+END
+
 CONTROLBAR:ToolTipChinaBuildInternetCenter
-"Helps hackers bring in money. Can be upgraded to spy on opponents"
+"Build-time: 30 seconds \n \n Helps hackers bring in money. Can be upgraded to spy on opponents"
 END
 
 CONTROLBAR:ToolTipAmericaICBMLauncher
-"Launches an Intercontinental Ballistic Missile \n Power Required: 10"
+"Build-time: 60 seconds \n \n Launches an Intercontinental Ballistic Missile \n Power Required: 10"
 END
 
 CONTROLBAR:ToolTipAmericaBuildTomahawkStorm
-"Launches a volley of Tomahawk missiles \n \n Countdown Timer: 5:00"
+"Build-time: 60 seconds \n \n Launches a volley of Tomahawk missiles \n \n Countdown Timer: 5:00"
 END
 
 CONTROLBAR:ToolTipGLABuildCombatBike
-"Fast and versatile \n Weak vs. tanks, aircraft"
+"Build-time: 10 seconds \n \n Fast and versatile \n Weak vs. tanks, aircraft"
+END
+
+CONTROLBAR:Boss_ToolTipGLABuildCombatBike
+"Build-time: 8 seconds \n \n Fast and versatile \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildSaboteur
-"Non-combat infiltration unit. Can temporarily disable enemy buildings"
+"Build-time: 30 seconds \n \n Non-combat infiltration unit. Can temporarily disable enemy buildings"
 END
 
 CONTROLBAR:ToolTipChinaBuildPropagandaTrooper
-"Produces propaganda to heal nearby units"
+"Build-time: ??? seconds \n \n Produces propaganda to heal nearby units"
 END
 
 CONTROLBAR:ToolTipChinaBuildMiniGunner
-"Strong vs. infantry, air \n Weak vs. tanks"
+"Build-time: 10 seconds \n \n Strong vs. infantry, air \n Weak vs. tanks"
 END
 
 CONTROLBAR:ToolTipUSABuildAvenger
-"Uses a laser to destroy missiles and aircraft \n \n Strong vs. missiles, aircraft \n Weak vs. vehicles, infantry"
+"Build-time: 13.25 seconds \n \n Uses a laser to destroy missiles and aircraft \n \n Strong vs. missiles, aircraft \n Weak vs. vehicles, infantry"
+END
+
+CONTROLBAR:Boss_ToolTipUSABuildAvenger
+"Build-time: 14 seconds \n \n Uses a laser to destroy missiles and aircraft \n \n Strong vs. missiles, aircraft \n Weak vs. vehicles, infantry"
 END
 
 CONTROLBAR:ToolTipUSABuildKingRaptor
-"Can engage ground or air targets. Equipped with a Point Defense Laser \n Larger Payload. Detects Stealth \n \n Strong vs. aircraft, tanks, light vehicles \n Weak vs. missile-armed infantry, anti-air defenses"
+"Build-time: 22 seconds \n \n Can engage ground or air targets. Equipped with a Point Defense Laser \n Larger Payload. Detects Stealth \n \n Strong vs. aircraft, tanks, light vehicles \n Weak vs. missile-armed infantry, anti-air defenses"
 END
 
 CONTROLBAR:ToolTipUSABuildFuelAirAurora
-"Super-sonic attack makes Aurora immune to enemy fire while dropping a small Fuel-Air Bomb. After super-sonic attack, Aurora speed is reduced to 50% \n \n Strong vs. buildings \n Weak vs. fighters, anti-air units"
+"Build-time: 32 seconds \n \n Super-sonic attack makes Aurora immune to enemy fire while dropping a small Fuel-Air Bomb. After super-sonic attack, Aurora speed is reduced to 50% \n \n Strong vs. buildings \n Weak vs. fighters, anti-air units"
 END
 
 CONTROLBAR:ToolTipUSABuildHyersonicAurora
-"Hyper-sonic attack makes Aurora immune to enemy fire. After Hyper-sonic attack, Aurora speed is reduced to 50% \n \n Strong vs. buildings \n Weak vs. fighters, anti-air units"
+"Build-time: 32 seconds \n \n Hyper-sonic attack makes Aurora immune to enemy fire. After Hyper-sonic attack, Aurora speed is reduced to 50% \n \n Strong vs. buildings \n Weak vs. fighters, anti-air units"
 END
 
 CONTROLBAR:ToolTipGLABuildSniper
-"Camouflaged while not shooting. Spots hidden enemies \n \n Strong vs. infantry \n Weak vs. light vehicles, scouts"
+"Build-time: 20 seconds \n \n Camouflaged while not shooting. Spots hidden enemies \n \n Strong vs. infantry \n Weak vs. light vehicles, scouts"
 END
 
 CONTROLBAR:ToolTipUSABuildMicrowave
-"Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
+"Build-time: 13.25 seconds \n \n Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
 END
 
 CONTROLBAR:ToolTipUSABuildSentryDrone
-"Detects stealth \n \nStrong vs. infantry \n Weak vs. tanks"
+"Build-time: 13.25 seconds \n \n Detects stealth \n \nStrong vs. infantry \n Weak vs. tanks"
+END
+
+CONTROLBAR:Boss_ToolTipUSABuildSentryDrone
+"Build-time: 14 seconds \n \n Detects stealth \n \nStrong vs. infantry \n Weak vs. tanks"
 END
 
 CONTROLBAR:ToolTipUSABuildHellfireDrone
-"Fires a Hellfire Missile \n \n Strong vs. vehicles \n Weak vs. infantry"
+"Build-time: 5 seconds \n \n Fires a Hellfire Missile \n \n Strong vs. vehicles \n Weak vs. infantry"
 END
 
 CONTROLBAR:ToolTipUSABuildPointDefenseDrone
-"Fires an anti-missile laser"
+"Build-time: 5 seconds \n \n Fires an anti-missile laser"
 END
 
 CONTROLBAR:ToolTipChinaBuildHelix
-"Heavy lift transport \n upgrades with base defense structures and Napalm Bomb \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+"Build-time: 20 seconds \n \n Heavy lift transport \n upgrades with base defense structures and Napalm Bomb \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+END
+
+CONTROLBAR:Tank_ToolTipChinaBuildHelix
+"Build-time: 25 seconds \n \n Heavy lift transport \n upgrades with base defense structures and Napalm Bomb \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
 END
 
 CONTROLBAR:ToolTipChinaBuildListeningOutpost
-"Transport. Detects stealth units \n \n Weak vs. tanks, aircraft"
+"Build-time: 19 seconds \n \n Transport. Detects stealth units \n \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildECM
-"Strong vs. tanks, vehicles \n Weak vs. infantry, aircraft"
+"Build-time: 14 seconds \n \n Strong vs. tanks, vehicles \n Weak vs. infantry, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildBattleBus
-"Can load it up with 8 infantry \n \n Strong vs. infantry, buildings"
+"Build-time: 32 seconds \n \n Can load it up with 8 infantry \n \n Strong vs. infantry, buildings"
 END
 
 CONTROLBAR:ToolTipUSAScienceSpectreGunship
@@ -24619,7 +24751,7 @@ TOOLTIP:Community
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildHelix
-"Heavy lift transport \n upgrades with base defense structures and Nuke Bomb \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+"Build-time: 20 seconds \n \n Heavy lift transport \n upgrades with base defense structures and Nuke Bomb \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
 END
 
 MAP:CHI01xListeningPostHint01
@@ -24635,7 +24767,7 @@ CONTROLBAR:SupW_ConstructAmericaPatriotBattery
 END
 
 CONTROLBAR:SupW_ToolTipUSABuildPatriotBattery
-"Ground and air defense. Can relay position of enemy to nearby Patriots \n \n Power Required: 3"
+"Build-time: 25 seconds \n \n Ground and air defense. Can relay position of enemy to nearby Patriots \n \n Power Required: 3"
 END
 
 MAP:USA03xBurtonSurvive
@@ -24683,19 +24815,19 @@ CONTROLBAR:Infa_ToolTipChinaScienceRedGuardTraining
 END
 
 CONTROLBAR:ToolTipChinaBuildNuclearMissileLauncherBoss
-"Launches a nuclear missile. Builds important Chinese upgrades \n \n Power Required: 10 \n Countdown Timer: 6:00"
+"Build-time: 60 seconds \n \n Launches a nuclear missile. Builds important Chinese upgrades \n \n Power Required: 10 \n Countdown Timer: 6:00"
 END
 
 CONTROLBAR:ToolTipUSABuildParticleCannonBoss
-"Fires a particle beam anywhere on the map \n \n Power Required: 10 \n Countdown Timer: 4:00"
+"Build-time: 60 seconds \n \n Fires a particle beam anywhere on the map \n \n Power Required: 10 \n Countdown Timer: 4:00"
 END
 
 CONTROLBAR:ToolTipGLABuildCombatBikeTerrorist
-"Fast and versatile \n Comes with a terrorist \n Weak vs. aircraft"
+"Build-time: 12 seconds \n \n Fast and versatile \n Comes with a terrorist \n Weak vs. aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildSuperHacker
-"Can disable enemy buildings and vehicles with a computer virus or can hack into the internet to steal money. Camouflaged \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
+"Build-time: 20 seconds \n \n Can disable enemy buildings and vehicles with a computer virus or can hack into the internet to steal money. Camouflaged \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
 END
 
 UPGRADE:Demo_SuicideBomb
@@ -24807,7 +24939,7 @@ OBJECT:Ox
 END
 
 CONTROLBAR:TooltipUpgradeChinaTacticalNukeMig
-"Upgrades Mig to fire a small nuke"
+"Build-time: 40 seconds \n \n Upgrades Mig to fire a small nuke"
 END
 
 CONTROLBAR:UpgradeChinaTacticalNukeMig
@@ -24815,23 +24947,23 @@ CONTROLBAR:UpgradeChinaTacticalNukeMig
 END
 
 CONTROLBAR:Boss_ToolTipChinaBuildBarracks
-"Trains soldiers"
+"Build-time: 10 seconds \n \n Trains soldiers"
 END
 
 CONTROLBAR:Boss_ToolTipChinaBuildAirField
-"Builds aircraft \n \n Power Required: 1"
+"Build-time: 30 seconds \n \n Builds aircraft \n \n Power Required: 1"
 END
 
 CONTROLBAR:Boss_ToolTipChinaBuildBunker
-"Can hold 5 soldiers"
+"Build-time: 5 seconds \n \n Can hold 5 soldiers"
 END
 
 CONTROLBAR:Boss_ToolTipChinaBuildWarFactory
-"Builds vehicles \n \n Power Required: 1"
+"Build-time: 15 seconds \n \n Builds vehicles \n \n Power Required: 1"
 END
 
 CONTROLBAR:Boss_ToolTipChinaBuildSupplyCenter
-"Drop-off point for supply gatherers \n \n Power Required: 1"
+"Build-time: 10 seconds \n \n Drop-off point for supply gatherers \n \n Power Required: 1"
 END
 
 CONTROLBAR:Infa_TooltipParaDrop
@@ -24843,7 +24975,7 @@ CONTROLBAR:Infa_ConstructChinaInfantryHacker
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildHacker
-"Stealthed. Can disable enemy buildings and vehicles with a computer virus or can hack into the internet to steal money \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
+"Build-time: 20 seconds \n \n Stealthed. Can disable enemy buildings and vehicles with a computer virus or can hack into the internet to steal money \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
 END
 
 CONTROLBAR:Infa_ConstructChinaInfantryBlackLotus
@@ -24863,7 +24995,7 @@ CONTROLBAR:Infa_ConstructChinaVehicleHelix
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildHelix
-"Heavy lift assault transport \n upgrades with base defense structures and Napalm Bomb \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+"Build-time: 20 seconds \n \n Heavy lift assault transport \n upgrades with base defense structures and Napalm Bomb \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
 END
 
 OBJECT:Infa_Helix
@@ -24879,7 +25011,7 @@ CONTROLBAR:UpgradeSuicideBomb
 END
 
 CONTROLBAR:ToolTipGLAUpgradeSuicideBomb
-"Allows all units \n and base defenses to use \n Demolitions ability"
+"Build-time: 30 seconds \n \n Allows all units \n and base defenses to use \n Demolitions ability"
 END
 
 OBJECT:MiniGunner
@@ -24895,7 +25027,7 @@ CONTROLBAR:AirF_ConstructAmericaVehicleChinook
 END
 
 CONTROLBAR:AirF_ToolTipUSABUildChinook
-"Assault Transport helicopter. Collects supplies. Works with Rangers to perform Combat Drop attack"
+"Build-time: 25 seconds \n \n Assault Transport helicopter. Collects supplies. Works with Rangers to perform Combat Drop attack"
 END
 
 CONTROLBAR:SuicideAttack
@@ -24907,15 +25039,15 @@ CONTROLBAR:ToolTipGLASuicideAttack
 END
 
 CONTROLBAR:Tank_TooltipUpgradeChinaNuclearTanks
-"+25% Emperor and Battlemaster speed"
+"Build-time: 60 seconds \n \n +25% Emperor and Battlemaster speed"
 END
 
 CONTROLBAR:Boss_ToolTipUSABuildPowerPlant
-"Provides power for bases \n \n Power Supplied: 5"
+"Build-time: 10 seconds \n \n Provides power for bases \n \n Power Supplied: 5"
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildListeningOutpost
-"Assault Transport. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
+"Build-time: ??? seconds \n \n Assault Transport. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:Nuke_ConstructChinaVehicleListeningOutpost
@@ -24923,11 +25055,11 @@ CONTROLBAR:Nuke_ConstructChinaVehicleListeningOutpost
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildTroopCrawler
-"Assault Transport. Comes with 8 Mini-Gunners. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
+"Build-time: 29 seconds \n \n Assault Transport. Comes with 8 Mini-Gunners. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildListeningOutpost
-"Transport. Holds 8 infantry units. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
+"Build-time: 19 seconds \n \n Transport. Holds 8 infantry units. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:Infa_ConstructChinaBunker
@@ -24935,7 +25067,7 @@ CONTROLBAR:Infa_ConstructChinaBunker
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildBunker
-"Can hold 10 Chinese soldiers \n Comes with minefield upgrade"
+"Build-time: 8 seconds \n \n Can hold 10 Chinese soldiers \n Comes with minefield upgrade"
 END
 
 OBJECT:Infa_Bunker
@@ -24951,7 +25083,7 @@ CONTROLBAR:Chem_ConstructGLAInfantryRebel
 END
 
 CONTROLBAR:Chem_ToolTipGLABuildRebel
-"Fires a stream of toxin \n Strong vs. infantry \n Weak vs. tanks, light vehicles"
+"Build-time: 10 seconds \n \n Fires a stream of toxin \n Strong vs. infantry \n Weak vs. tanks, light vehicles"
 END
 
 OBJECT:Chem_Rebel
@@ -24967,7 +25099,7 @@ CONTROLBAR:Chem_ConstructGLAInfantryTerrorist
 END
 
 CONTROLBAR:Chem_ToolTipGLABuildTerrorist
-"Suicide soldier explodes in a cloud of toxin"
+"Build-time: 10 seconds \n \n Suicide soldier explodes in a cloud of toxin"
 END
 
 CONTROLBAR:Chem_ConstructGLATunnelNetwork
@@ -24979,7 +25111,7 @@ OBJECT:Chem_TunnelNetwork
 END
 
 CONTROLBAR:Chem_ToolTipGLABuildTunnelNetwork
-"Base defense and underground tunnel. Fires a stream of toxin. Units can enter the Tunnel Network and exit at any other Tunnel Network"
+"Build-time: 30 seconds \n \n Base defense and underground tunnel. Fires a stream of toxin. Units can enter the Tunnel Network and exit at any other Tunnel Network"
 END
 
 CONTROLBAR:UpgradeStealthComanche
@@ -24987,7 +25119,7 @@ CONTROLBAR:UpgradeStealthComanche
 END
 
 CONTROLBAR:ToolTipAirFUpgradeComancheStealth
-"Comanches become stealth"
+"Build-time: 30 seconds \n \n Comanches become stealth"
 END
 
 OBJECT:Entrance
@@ -24995,11 +25127,11 @@ OBJECT:Entrance
 END
 
 CONTROLBAR:Boss_TooltipChinaUpgradeNationalism
-"+25% to Horde bonus for Tank Hunter"
+"Build-time: 60 seconds \n \n +25% to Horde bonus for Tank Hunter"
 END
 
 CONTROLBAR:Lazr_ToolTipUSABuildPowerPlant
-"Provides power for USA bases \n \n Power Supplied: 8"
+"Build-time: 10 seconds \n \n Provides power for USA bases \n \n Power Supplied: 8"
 END
 
 GUI:DoubleClickAttackMove
@@ -25015,7 +25147,7 @@ DIALOGEVENT:01_AllCheerSoundSubtitle
 END
 
 CONTROLBAR:Lazr_ToolTipUSABuildPatriotBattery
-"Ground and air defense. Can relay position of enemy to nearby Turrets \n \n Power Required: 5"
+"Build-time: 25 seconds \n \n Ground and air defense. Can relay position of enemy to nearby Turrets \n \n Power Required: 5"
 END
 
 CONTROLBAR:Lazr_ConstructAmericaPatriotBattery
@@ -25031,11 +25163,11 @@ OBJECT:Lazr_Tank
 END
 
 CONTROLBAR:Lazr_ToolTipUSABuildCrusader
-"Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
+"Build-time: 13.25 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
 END
 
 CONTROLBAR:ToolTipChinaBuildEmperor
-"Strong vs. vehicles, buildings \n Weak vs. rockets, aircraft"
+"Build-time: 24 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. rockets, aircraft"
 END
 
 CONTROLBAR:AirF_ToolTipUSAScienceSpectreGunship
@@ -25099,15 +25231,15 @@ MAP:MD_CHI03-Event-Built-SpeakerTower-01
 END
 
 CONTROLBAR:Tank_TooltipUpgradeChinaUraniumShells
-"+25% shot damage on Battlemaster and Emperor"
+"Build-time: 60 seconds \n \n +25% shot damage on Battlemaster and Emperor"
 END
 
 CONTROLBAR:ToolTipGLAUpgradeBuggyAmmo
-"+100% Rocket Buggy ammo"
+"Build-time: 30 seconds \n \n +100% Rocket Buggy ammo"
 END
 
 CONTROLBAR:Chem_ToolTipGLAUpgradeAPBullets
-"+25% damage bullet firing units"
+"Build-time: 60 seconds \n \n +25% damage bullet firing units"
 END
 
 GUI:BioFeatures_USA
@@ -25227,7 +25359,7 @@ TOOLTIP:FireWallPort
 END
 
 CONTROLBAR:Tank_TooltipUpgradeChinaOverlordGattlingCannon
-"Build a Gattling Cannon on this Emperor"
+"Build-time: 20 seconds \n \n Build a Gattling Cannon on this Emperor"
 END
 
 OBJECT:Tank_Overlord
@@ -25283,7 +25415,7 @@ OBJECT:Demo_DemoTrap
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildPowerPlant
-"Advanced Nuclear Reactor. Can be overloaded to provide more power \n \n Power Supplied: 18"
+"Build-time: 10 seconds \n \n Advanced Nuclear Reactor. Can be overloaded to provide more power \n \n Power Supplied: 18"
 END
 
 CONTROLBAR:Nuke_ToolTipChinaScienceCarpetBomb
@@ -25363,7 +25495,7 @@ CONTROLBAR:Chem_TooltipFireRebelAmbush
 END
 
 CONTROLBAR:AirF_ToolTipUSABuildAurora
-"Super-sonic attack makes Aurora immune to enemy fire. After super-sonic attack, Aurora speed is reduced to 50% \n \n Strong vs. buildings \n Weak vs. fighters, anti-air units"
+"Build-time: 32 seconds \n \n Super-sonic attack makes Aurora immune to enemy fire. After super-sonic attack, Aurora speed is reduced to 50% \n \n Strong vs. buildings \n Weak vs. fighters, anti-air units"
 END
 
 CONTROLBAR:Chem_ToolTipGLAScienceRebelAmbush
@@ -25479,11 +25611,11 @@ CREDITS:NACustomerQualityControl
 END
 
 CONTROLBAR:SupW_TooltipUSAUpgradeAdvancedControlRods
-"Reactor provides 300% more power"
+"Build-time: 30 seconds \n \n Reactor provides 300% more power"
 END
 
 CONTROLBAR:AirF_ToolTipUSABuildStealthFighter
-"Stealthed while moving \n Equipped with a Point Defense Laser \n \n Strong vs. enemy base defenses \n Weak vs. enemy fighters"
+"Build-time: 27 seconds \n \n Stealthed while moving \n Equipped with a Point Defense Laser \n \n Strong vs. enemy base defenses \n Weak vs. enemy fighters"
 END
 
 GUI:RetaliationTitle
@@ -25723,7 +25855,7 @@ MAP:Defcon6
 END
 
 CONTROLBAR:AirF_TooltipUSAUpgradeLaserMissiles
-"Raptor and Stealth Fighter missiles do +12% more damage"
+"Build-time: 40 seconds \n \n Raptor and Stealth Fighter missiles do +12% more damage"
 END
 
 CONTROLBAR:AirF_ToolTipUSAScienceCarpetBomb
