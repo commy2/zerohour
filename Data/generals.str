@@ -9539,7 +9539,7 @@ TOOLTIP:BattleHonorPreorderDisabled
 END
 
 GUI:Credits
-"CREDITS"
+"***CHANGELOG***"
 END
 
 ERROR:D3DFailurePrompt
