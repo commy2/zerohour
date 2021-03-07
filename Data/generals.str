@@ -7503,7 +7503,7 @@ CONTROLBAR:ToolTipGLABuildWorker
 END
 
 CONTROLBAR:ToolTipChinaBuildDozer
-"Build-time: 8 seconds \n \n Builds all Chinese structures and repairs buildings"
+"Build-time: 6.5 seconds \n \n Builds all Chinese structures and repairs buildings"
 END
 
 CONTROLBAR:ToolTipGLABuildScorpion
@@ -7523,15 +7523,15 @@ CONTROLBAR:ToolTipGLABuildRadarVan
 END
 
 CONTROLBAR:ToolTipChinaBuildOverlord
-"Build-time: 24 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. rocket-armed infantry, aircraft"
+"Build-time: 22 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. rocket-armed infantry, aircraft"
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildOverlord
-"Build-time: 26 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. rocket-armed infantry, aircraft"
+"Build-time: 24 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. rocket-armed infantry, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildGattlingTank
-"Build-time: 14 seconds \n \n Strong vs. infantry, aircraft \n Weak vs. tanks"
+"Build-time: 12 seconds \n \n Strong vs. infantry, aircraft \n Weak vs. tanks"
 END
 
 CONTROLBAR:ToolTipGLABuildRebel
@@ -7563,11 +7563,7 @@ CONTROLBAR:ToolTipChinaBuildSupplyTruck
 END
 
 CONTROLBAR:ToolTipUSABuildPaladin
-"Build-time: 15.25 seconds \n \n Uses a laser to destroy missiles and enemy infantry \n \n Strong vs. tanks, buildings, and rockets \n Weak vs. aircraft"
-END
-
-CONTROLBAR:Boss_ToolTipUSABuildPaladin
-"Build-time: 16 seconds \n \n Uses a laser to destroy missiles and enemy infantry \n \n Strong vs. tanks, buildings, and rockets \n Weak vs. aircraft"
+"Build-time: 14 seconds \n \n Uses a laser to destroy missiles and enemy infantry \n \n Strong vs. tanks, buildings, and rockets \n Weak vs. aircraft"
 END
 
 CONTROLBAR:ToolTipUSABuildRaptor
@@ -7599,19 +7595,15 @@ CONTROLBAR:ToolTipUSABuildColonelBurton
 END
 
 CONTROLBAR:ToolTipUSABuildTomahawk
-"Build-time: 23.25 seconds \n \n Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
-END
-
-CONTROLBAR:Boss_ToolTipUSABuildTomahawk
-"Build-time: 24 seconds \n \n Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
+"Build-time: 22 seconds \n \n Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
 END
 
 CONTROLBAR:ToolTipUSABuildHumvee
-"Build-time: 13.25 seconds \n \n Transport. Infantry inside can use fire-ports to engage the enemy \n \n Strong vs. infantry \n Weak vs. tanks"
+"Build-time: 12 seconds \n \n Transport. Infantry inside can use fire-ports to engage the enemy \n \n Strong vs. infantry \n Weak vs. tanks"
 END
 
 CONTROLBAR:ToolTipUSABuildMedic
-"Build-time: 13.25 seconds \n \n Heals vehicles and soldiers. Cleans up radiation and toxins"
+"Build-time: 12 seconds \n \n Heals vehicles and soldiers. Cleans up radiation and toxins"
 END
 
 CONTROLBAR:ToolTipUSABuildScoutDrone
@@ -7651,19 +7643,19 @@ CONTROLBAR:Nuke_ToolTipChinaBuildTankHunter
 END
 
 CONTROLBAR:ToolTipChinaBuildInfernoCannon
-"Build-time: 19 seconds \n \n Creates a fire-storm in large groups \n \n Strong vs. base defenses, infantry \n Weak vs. tanks, aircraft"
+"Build-time: 17 seconds \n \n Creates a fire-storm in large groups \n \n Strong vs. base defenses, infantry \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildNukeLauncher
-"Build-time: 24 seconds \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
+"Build-time: 22 seconds \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildTroopCrawler
-"Build-time: 19 seconds \n \n Transport. Comes with 8 Red Guard. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
+"Build-time: 17 seconds \n \n Transport. Comes with 8 Red Guard. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildDragonTank
-"Build-time: 14 seconds \n \n Can burn soldiers out of buildings. Can create a wall of flame \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
+"Build-time: 12 seconds \n \n Can burn soldiers out of buildings. Can create a wall of flame \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildTerrorist
@@ -7707,15 +7699,15 @@ CONTROLBAR:ToolTipGLABuildToxinTruck
 END
 
 CONTROLBAR:ToolTipChinaBuildBattlemaster
-"Build-time: 14 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
+"Build-time: 12 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
 END
 
 CONTROLBAR:Tank_ToolTipChinaBuildBattlemaster
-"Build-time: 16 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
+"Build-time: 14 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildBattlemaster
-"Build-time: 16 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
+"Build-time: 14 seconds \n \n Gains Horde bonus when in groups of 5 or more \n \n Strong vs. tanks, buildings \n Weak vs. infantry, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildMarauder
@@ -7739,7 +7731,7 @@ CONTROLBAR:ToolTipGLABuildSCUDLauncher
 END
 
 CONTROLBAR:ToolTipUSABuildCrusader
-"Build-time: 13.25 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
+"Build-time: 12 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
 END
 
 CONTROLBAR:ToolTipUSASciencePaladin
@@ -14047,7 +14039,7 @@ CONTROLBAR:ToolTipGLABuildCombatBike
 END
 
 CONTROLBAR:Boss_ToolTipGLABuildCombatBike
-"Build-time: 12 seconds \n \n Fast and versatile \n Weak vs. tanks, aircraft"
+"Build-time: 10 seconds \n \n Fast and versatile \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildSaboteur
@@ -14063,11 +14055,7 @@ CONTROLBAR:ToolTipChinaBuildMiniGunner
 END
 
 CONTROLBAR:ToolTipUSABuildAvenger
-"Build-time: 13.25 seconds \n \n Uses a laser to destroy missiles and aircraft \n \n Strong vs. missiles, aircraft \n Weak vs. vehicles, infantry"
-END
-
-CONTROLBAR:Boss_ToolTipUSABuildAvenger
-"Build-time: 14 seconds \n \n Uses a laser to destroy missiles and aircraft \n \n Strong vs. missiles, aircraft \n Weak vs. vehicles, infantry"
+"Build-time: 12 seconds \n \n Uses a laser to destroy missiles and aircraft \n \n Strong vs. missiles, aircraft \n Weak vs. vehicles, infantry"
 END
 
 CONTROLBAR:ToolTipUSABuildKingRaptor
@@ -14087,15 +14075,11 @@ CONTROLBAR:ToolTipGLABuildSniper
 END
 
 CONTROLBAR:ToolTipUSABuildMicrowave
-"Build-time: 13.25 seconds \n \n Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
+"Build-time: 12 seconds \n \n Strong vs. base defenses \n Weak vs. tanks, aircraft, light vehicles"
 END
 
 CONTROLBAR:ToolTipUSABuildSentryDrone
-"Build-time: 13.25 seconds \n \n Detects stealth \n \nStrong vs. infantry \n Weak vs. tanks"
-END
-
-CONTROLBAR:Boss_ToolTipUSABuildSentryDrone
-"Build-time: 14 seconds \n \n Detects stealth \n \nStrong vs. infantry \n Weak vs. tanks"
+"Build-time: 12 seconds \n \n Detects stealth \n \nStrong vs. infantry \n Weak vs. tanks"
 END
 
 CONTROLBAR:ToolTipUSABuildHellfireDrone
@@ -14115,11 +14099,11 @@ CONTROLBAR:Tank_ToolTipChinaBuildHelix
 END
 
 CONTROLBAR:ToolTipChinaBuildListeningOutpost
-"Build-time: 19 seconds \n \n Transport. Detects stealth units \n \n Weak vs. tanks, aircraft"
+"Build-time: 17 seconds \n \n Transport. Detects stealth units \n \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipChinaBuildECM
-"Build-time: 14 seconds \n \n Strong vs. tanks, vehicles \n Weak vs. infantry, aircraft"
+"Build-time: 12 seconds \n \n Strong vs. tanks, vehicles \n Weak vs. infantry, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildBattleBus
@@ -25055,11 +25039,11 @@ CONTROLBAR:Nuke_ConstructChinaVehicleListeningOutpost
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildTroopCrawler
-"Build-time: 29 seconds \n \n Assault Transport. Comes with 8 Mini-Gunners. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
+"Build-time: 27 seconds \n \n Assault Transport. Comes with 8 Mini-Gunners. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildListeningOutpost
-"Build-time: 19 seconds \n \n Transport. Holds 8 infantry units. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
+"Build-time: 17 seconds \n \n Transport. Holds 8 infantry units. Detects stealth units \n \n Strong vs. infantry, buildings \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:Infa_ConstructChinaBunker
@@ -25163,11 +25147,11 @@ OBJECT:Lazr_Tank
 END
 
 CONTROLBAR:Lazr_ToolTipUSABuildCrusader
-"Build-time: 13.25 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
+"Build-time: 12 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
 END
 
 CONTROLBAR:ToolTipChinaBuildEmperor
-"Build-time: 24 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. rockets, aircraft"
+"Build-time: 22 seconds \n \n Strong vs. vehicles, buildings \n Weak vs. rockets, aircraft"
 END
 
 CONTROLBAR:AirF_ToolTipUSAScienceSpectreGunship
