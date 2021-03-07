@@ -25011,7 +25011,7 @@ CONTROLBAR:AirF_ConstructAmericaVehicleChinook
 END
 
 CONTROLBAR:AirF_ToolTipUSABUildChinook
-"Build-time: 25 seconds \n \n Assault Transport helicopter. Collects supplies. Works with Rangers to perform Combat Drop attack"
+"Build-time: 30 seconds \n \n Assault Transport helicopter. Collects supplies. Works with Rangers to perform Combat Drop attack"
 END
 
 CONTROLBAR:SuicideAttack
