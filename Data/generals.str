@@ -14047,7 +14047,7 @@ CONTROLBAR:ToolTipGLABuildCombatBike
 END
 
 CONTROLBAR:Boss_ToolTipGLABuildCombatBike
-"Build-time: 8 seconds \n \n Fast and versatile \n Weak vs. tanks, aircraft"
+"Build-time: 12 seconds \n \n Fast and versatile \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildSaboteur
