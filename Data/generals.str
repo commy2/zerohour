@@ -7575,7 +7575,7 @@ CONTROLBAR:ToolTipUSABuildAurora
 END
 
 CONTROLBAR:ToolTipUSABuildStealthFighter
-"Build-time: 27 seconds \n \n Stealthed while moving \n \n Strong vs. enemy base defenses \n Weak vs. enemy fighters"
+"Build-time: 22 seconds \n \n Stealthed while moving \n \n Strong vs. enemy base defenses \n Weak vs. enemy fighters"
 END
 
 CONTROLBAR:ToolTipUSABuildComanche
@@ -25599,7 +25599,7 @@ CONTROLBAR:SupW_TooltipUSAUpgradeAdvancedControlRods
 END
 
 CONTROLBAR:AirF_ToolTipUSABuildStealthFighter
-"Build-time: 27 seconds \n \n Stealthed while moving \n Equipped with a Point Defense Laser \n \n Strong vs. enemy base defenses \n Weak vs. enemy fighters"
+"Build-time: 22 seconds \n \n Stealthed while moving \n Equipped with a Point Defense Laser \n \n Strong vs. enemy base defenses \n Weak vs. enemy fighters"
 END
 
 GUI:RetaliationTitle
