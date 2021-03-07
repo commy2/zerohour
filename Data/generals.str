@@ -7567,7 +7567,7 @@ CONTROLBAR:ToolTipUSABuildPaladin
 END
 
 CONTROLBAR:ToolTipUSABuildRaptor
-"Build-time: 22 seconds \n \n Can engage ground or air targets \n \n Strong vs. aircraft, tanks, light vehicles \n Weak vs. missile-armed infantry, anti-air defenses"
+"Build-time: 12 seconds \n \n Can engage ground or air targets \n \n Strong vs. aircraft, tanks, light vehicles \n Weak vs. missile-armed infantry, anti-air defenses"
 END
 
 CONTROLBAR:ToolTipUSABuildAurora
