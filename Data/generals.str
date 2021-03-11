@@ -6971,7 +6971,7 @@ CONTROLBAR:TooltipFireRadioJam
 END
 
 CONTROLBAR:TooltipFireEmergencyRepair
-"Emergency Repair \n \n Countdown Timer: 4:00"
+"Emergency Repair \n \n Countdown Timer: 2:00"
 END
 
 CONTROLBAR:TooltipFireRebelAmbush
@@ -8163,7 +8163,7 @@ MAP:CHI05Open
 END
 
 CONTROLBAR:ToolTipScienceEmergencyRepair
-"Repairs vehicles in an area \n \n Rank 1: Light Repair \n Rank 2: Medium Repair \n Rank 3: Serious Repair \n \n Deploy from: Command Center"
+"Repairs vehicles in an area \n \n Rank 1: 10 seconds \n Rank 2: 20 seconds \n Rank 3: 30 seconds \n \n Deploy from: Command Center"
 END
 
 GUI:MinSpecFailedTitle
