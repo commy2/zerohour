@@ -7551,7 +7551,7 @@ CONTROLBAR:Nuke_ToolTipChinaBuildRedguard
 END
 
 CONTROLBAR:ToolTipChinaBuildHacker
-"Build-time: 20 seconds \n \n Can disable enemy buildings with a computer virus or can hack into the internet to steal money \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
+"Build-time: 15 seconds \n \n Stealthed as veteran while not moving. \n Can disable enemy buildings with a computer virus or can hack into the internet to steal money \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
 END
 
 CONTROLBAR:ToolTipUSABUildChinook
@@ -24959,7 +24959,7 @@ CONTROLBAR:Infa_ConstructChinaInfantryHacker
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildHacker
-"Build-time: 20 seconds \n \n Stealthed. Can disable enemy buildings and vehicles with a computer virus or can hack into the internet to steal money \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
+"Build-time: 15 seconds \n \n Stealthed. Can disable enemy buildings and vehicles with a computer virus or can hack into the internet to steal money \n \n Strong vs. buildings \n Weak vs. infantry, vehicles"
 END
 
 CONTROLBAR:Infa_ConstructChinaInfantryBlackLotus
