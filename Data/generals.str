@@ -7587,7 +7587,7 @@ CONTROLBAR:ToolTipUSABuildMissileDefender
 END
 
 CONTROLBAR:ToolTipUSABuildPathFinder
-"Build-time: 10 seconds \n \n Camouflaged while not moving or shooting. Spots hidden enemies \n \n Strong vs. infantry \n Weak vs. light vehicles, scouts"
+"Build-time: 15 seconds \n \n Camouflaged while not moving or shooting. Spots hidden enemies \n \n Strong vs. infantry \n Weak vs. light vehicles, scouts"
 END
 
 CONTROLBAR:ToolTipUSABuildColonelBurton
