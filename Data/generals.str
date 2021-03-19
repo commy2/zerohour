@@ -24951,7 +24951,7 @@ CONTROLBAR:Boss_ToolTipChinaBuildSupplyCenter
 END
 
 CONTROLBAR:Infa_TooltipParaDrop
-"Drops Mini-Gunners by plane \n \n Countdown Timer: 4:00"
+"Drops paratroopers by plane \n \n Countdown Timer: 4:00"
 END
 
 CONTROLBAR:Infa_ConstructChinaInfantryHacker
@@ -24987,7 +24987,7 @@ OBJECT:Infa_Helix
 END
 
 CONTROLBAR:Infa_ToolTipChinaScienceInfantryParadrop
-"Drop Mini-Gunners from the air \n \n Rank 1: 5 Mini-Gunners \n Rank 2: 10 Mini-Gunners \n Rank 3: 15 Mini-Gunners \n \n Deploy from: Command Center"
+"Drop paratroopers from the air \n \n Rank 1: 3 Mini-Gunners, 2 Tank Hunters \n Rank 2: 5 Mini-Gunners, 4 Tank Hunters, 1 Hacker \n Rank 3: 10 Mini-Gunners, 8 Tank Hunters, 2 Hackers \n \n Deploy from: Command Center"
 END
 
 CONTROLBAR:UpgradeSuicideBomb
