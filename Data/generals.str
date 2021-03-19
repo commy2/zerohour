@@ -11594,6 +11594,10 @@ SCIENCE:ChinaFrenzy3
 "Frenzy 3"
 END
 
+SCIENCE:AmericaCarpetBomb
+"Carpet Bomb"
+END
+
 SCIENCE:ChinaCarpetBomb
 "Carpet Bomb"
 END
@@ -11800,6 +11804,10 @@ END
 
 CONTROLBAR:UpgradeAmericaSupplyLines
 "S&upply Lines"
+END
+
+CONTROLBAR:UpgradeAmericaB3Bomber
+"B2 Bomb&er"
 END
 
 CONTROLBAR:UpgradeAmericaMOAB
@@ -12020,6 +12028,10 @@ END
 
 UPGRADE:AmericaSentryDroneGun
 "Sentry Drone Gun"
+END
+
+UPGRADE:AmericaB3Bomber
+"B2 Bomber"
 END
 
 UPGRADE:AmericaMOAB
@@ -13834,6 +13846,10 @@ CONTROLBAR:TooltipUSAUpgradeSupplyLines
 "Build-time: 30 seconds \n \n Resources gathering mechanisms bring in an additional 10%"
 END
 
+CONTROLBAR:TooltipUSAUpgradeB3Bomber
+"Build-time: 30 seconds \n \n Upgrades Carpet Bomb to use a B2 Bomber"
+END
+
 CONTROLBAR:TooltipUSAUpgradeMOAB
 "Build-time: 60 seconds \n \n Fuel Air Bomb is upgraded to the Mother Of All Bombs"
 END
@@ -14152,6 +14168,10 @@ END
 
 CONTROLBAR:ToolTipChinaScienceFrenzy
 "Causes your units to do more damage for a time when targeted \n \n Rank 1: 10 percent for 10 seconds \n Rank 2: 20 percent for 20 seconds \n Rank 3: 30 percent for 30 seconds \n \n Deploy from: Command Center"
+END
+
+CONTROLBAR:ToolTipUSAScienceCarpetBomb
+"Allows you to call in a heavy bomber to carpet bomb an area \n \n Deploy from: Command Center"
 END
 
 CONTROLBAR:ToolTipChinaScienceCarpetBomb
