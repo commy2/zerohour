@@ -6923,7 +6923,7 @@ CONTROLBAR:TooltipFireParticleUplinkCannon
 END
 
 CONTROLBAR:TooltipParaDrop
-"Drops Rangers by plane \n \n Countdown Timer: 4:00"
+"Drops paratroopers by plane \n \n Countdown Timer: 4:00"
 END
 
 CONTROLBAR:TooltipClusterMines
@@ -7751,7 +7751,7 @@ CONTROLBAR:ToolTipUSAScienceSpyDrone
 END
 
 CONTROLBAR:ToolTipUSAScienceParaDrop
-"Drop Rangers from the air \n \n Rank 1: 5 Rangers \n Rank 2: 10 Rangers \n Rank 3: 20 Rangers \n \n Deploy from: Command Center"
+"Drop paratroopers from the air \n \n Rank 1: 3 Rangers, 2 Missile Defenders \n Rank 2: 5 Rangers, 4 Missile Defenders, 1 Pathfinder \n Rank 3: 10 Rangers, 8 Missile Defenders, 2 Pathfinders \n \n Deploy from: Command Center"
 END
 
 CONTROLBAR:ToolTipUSAScienceA10Strike
