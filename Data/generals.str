@@ -4582,6 +4582,10 @@ CONTROLBAR:ExplosiveWarhead
 "Ex&plosive Warhead"
 END
 
+CONTROLBAR:NuclearWarhead
+"Nu&clear Warhead"
+END
+
 CONTROLBAR:Fire20mmCannon
 "&Fire 20mm Cannon"
 END
@@ -4960,6 +4964,10 @@ END
 
 UPGRADE:SCUDLauncherAnthraxWarhead
 "Anthrax Warhead"
+END
+
+UPGRADE:SCUDLauncherNuclearWarhead
+"Nuclear Warhead"
 END
 
 UPGRADE:BuggyAmmo
@@ -7236,6 +7244,10 @@ END
 
 CONTROLBAR:ToolTipGLASCUDAnthraxWarhead
 "Load the SCUD missile with Anthrax"
+END
+
+CONTROLBAR:ToolTipGLASCUDNuclearWarhead
+"Load the SCUD missile with a nuke"
 END
 
 CONTROLBAR:ToolTipGLAFireToxinTractorSlime
@@ -25846,3 +25858,10 @@ CONTROLBAR:AirF_ToolTipUSAScienceCarpetBomb
 "Allows you to call in a B2 Stealth Bomber to carpet bomb an area \n \n Deploy from: Strategy Center"
 END
 
+CONTROLBAR:UpgradeGLANuclearWarhead
+"&Nuclear Warhead"
+END
+
+CONTROLBAR:ToolTipGLAUpgradeNuclearWarhead
+"Build-time: 60 seconds \n \n Scud Launcher gains nuclear missile"
+END
