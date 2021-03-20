@@ -25885,3 +25885,11 @@ END
 CONTROLBAR:ToolTipGLAUpgradeNuclearWarhead
 "Build-time: 60 seconds \n \n Scud Launcher gains nuclear missile"
 END
+
+CONTROLBAR:SupW_UpgradeAmericaPointDefenseDrone
+"&Point Defense Drone"
+END
+
+CONTROLBAR:SupW_ToolTipUSAUpgradePointDefenseDrone
+"Upgrades Battle Drone with a Point Defense Laser"
+End
